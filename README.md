@@ -1,4 +1,6 @@
-# lighting
+# Lighting  
+Date: July 2023?  
+
 Miscellaneous documents for horticultural lighting
 
 **Gavita HPS 1000 W, Fluence-LED toplights** - [here](https://github.com/ahanes3/lighting/blob/main/docs/Fluence_Gavita_Specs.pdf) 
@@ -6,6 +8,7 @@ Miscellaneous documents for horticultural lighting
 **Spec Sheets, User Manuals, & More** - [here](https://github.com/ahanes3/lighting/tree/main/docs)
 
 # Spectroradiometer 
+Date: November 2023 
 
 Overview of spectroradiometer options for greenhouse  
 
